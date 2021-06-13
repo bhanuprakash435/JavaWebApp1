@@ -66,12 +66,12 @@
             <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div>
         <div class="col-md-4">
-            <h2>Continuous integration</h2>
+            <h2>What is Continuous integration ?</h2>
             <p>Continuous integration (CI) is the practice of automating the integration of code changes from multiple contributors into a single software project. Its a primary DevOps best practice, allowing developers to frequently merge code changes into a central repository where builds and tests then run. Automated tools are used to assert the new codes correctness before integration. </p>
             <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div>
         <div class="col-md-4">
-            <h2>Continuous delivery</h2>
+            <h2>What is Continuous delivery ?</h2>
             <p>Continuous delivery is a software engineering approach in which teams produce software in short cycles, ensuring that the software can be reliably released at any time and, when releasing the software, without doing so manually. It aims at building, testing, and releasing software with greater speed and frequency.</p>
             <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div>
