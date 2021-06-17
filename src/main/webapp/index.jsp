@@ -8,7 +8,7 @@
     <meta name="author" content="">
     <link rel="icon" href="../../favicon.ico">
 
-    <title>Manipal School of Information Science</title>
+    <title>MSOIS</title>
 
 
     <!-- Custom styles for this template -->
@@ -51,7 +51,7 @@
 <!-- Main jumbotron for a primary marketing message or call to action -->
 <div class="jumbotron">
     <div class="container">
-        <h1>Hello</h1>
+        <h1>Manipal School of Information Science</h1>
         <p>Welcome to DevOps Tutorial</p>
         <p><a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
     </div>
