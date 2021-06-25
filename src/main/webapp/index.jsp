@@ -50,15 +50,16 @@
 
 <!-- Main jumbotron for a primary marketing message or call to action -->
 <div class="jumbotron">
+    <div class="jumbotron text-white jumbotron-image shadow" style="background-image: url(https://apply.aua.manipal.edu/content/dam/manipal/mu/default-thumbnail-images/968X328/manipal-building-968x328.jpg);">
     <div class="container">
         <h1>Manipal School of Information Science</h1>
         <p>Welcome to DevOps Tutorial</p>
         <p><a href="https://manipal.edu/sois.html" class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
     </div>
+    </div>
 </div>
 
 <div class="container">
-    <div class="jumbotron text-white jumbotron-image shadow" style="background-image: url(https://media.geeksforgeeks.org/wp-content/uploads/20200914000601/gfg-300x200.jpg);">
     <!-- Example row of columns -->
     <div class="row">
         <div class="col-md-4">
