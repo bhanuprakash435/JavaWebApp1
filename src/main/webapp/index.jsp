@@ -78,11 +78,12 @@
     </div>
 
     <hr>
-
-    <footer>
+    <div class="container">
         <div class="jumbotron text-white jumbotron-image shadow" style="background-image: url(https://apply.aua.manipal.edu/content/dam/manipal/mu/default-thumbnail-images/968X328/manipal-building-968x328.jpg);">
-        <p>MSOIS, Manipal (Assignment work)</p>
         </div>
+    </div>
+    <footer>
+        <p>MSOIS, Manipal (Assignment work)</p>
     </footer>
 </div> <!-- /container -->
 
