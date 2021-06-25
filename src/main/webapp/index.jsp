@@ -63,17 +63,17 @@
         <div class="col-md-4">
             <h2>What is DevOps ?</h2>
             <p>DevOps is a term for a group of concepts that, while not all new, have catalyzed into a movement and are rapidly spreading throughout the technical community.  Like any new and popular term, people may have confused and sometimes contradictory impressions of what it is.  Here is my take on how DevOps can be usefully defined; I propose this definition as a standard framework to more clearly discuss the various areas DevOps covers. Like Quality or Agile, DevOps is a large enough concept that it requires some nuance to fully understand. </p>
-            <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+            <p><a href="https://theagileadmin.com/what-is-devops/" class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div>
         <div class="col-md-4">
             <h2>What is Continuous integration ?</h2>
             <p>Continuous integration (CI) is the practice of automating the integration of code changes from multiple contributors into a single software project. Its a primary DevOps best practice, allowing developers to frequently merge code changes into a central repository where builds and tests then run. Automated tools are used to assert the new codes correctness before integration. </p>
-            <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+            <p><a href="https://www.atlassian.com/continuous-delivery/continuous-integration" class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div>
         <div class="col-md-4">
             <h2>What is Continuous delivery ?</h2>
             <p>Continuous delivery is a software engineering approach in which teams produce software in short cycles, ensuring that the software can be reliably released at any time and, when releasing the software, without doing so manually. It aims at building, testing, and releasing software with greater speed and frequency.</p>
-            <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+            <p><a href="https://www.atlassian.com/continuous-delivery/continuous-deployment" class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div>
     </div>
 
