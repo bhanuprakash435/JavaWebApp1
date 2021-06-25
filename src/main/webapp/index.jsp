@@ -53,7 +53,7 @@
     <div class="container">
         <h1>Manipal School of Information Science</h1>
         <p>Welcome to DevOps Tutorial</p>
-        <p><a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
+        <p><a href="https://manipal.edu/sois.html" class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
     </div>
 </div>
 
