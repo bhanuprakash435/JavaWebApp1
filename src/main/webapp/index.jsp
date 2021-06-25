@@ -58,6 +58,7 @@
 </div>
 
 <div class="container">
+    <div class="jumbotron text-white jumbotron-image shadow" style="background-image: url(https://media.geeksforgeeks.org/wp-content/uploads/20200914000601/gfg-300x200.jpg);">
     <!-- Example row of columns -->
     <div class="row">
         <div class="col-md-4">
